@@ -19,10 +19,9 @@
 ```yaml
 name:      Richard Carvalho
 role:      DevOps Engineer @ EG A/S
-focus:     [CI/CD, GitOps, Cloud, Observability]
+focus:     [CI/CD, Cloud, Observability]
 currently:
   - migrating pipelines to GitHub Actions + Octopus Deploy
-  - rolling out FluxCD for Kubernetes config & secrets
   - building Grafana dashboards teams actually look at
 off_duty:  ⚽ football
 ```
@@ -37,7 +36,6 @@ off_duty:  ⚽ football
 
 <p align="center">
   <img src="https://img.shields.io/badge/Octopus%20Deploy-2F93E0?style=flat-square&logo=octopusdeploy&logoColor=white" alt="Octopus Deploy" />
-  <img src="https://img.shields.io/badge/FluxCD-5468FF?style=flat-square&logo=flux&logoColor=white" alt="FluxCD" />
   <img src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
   <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" alt="SonarQube" />
   <img src="https://img.shields.io/badge/Checkmarx-9b1c31?style=flat-square" alt="Checkmarx" />
